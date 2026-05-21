@@ -1,6 +1,4 @@
-Here's a polished and well-structured version of your summary:
 
----
 
 ### Day 1: Introduction to AWS  
 **From Abhishek Veeramalla’s *AWS Zero to Hero Course for DevOps Engineers***
@@ -96,7 +94,3 @@ The session concludes with actionable first steps and best practices:
 
 - **DevOps Best Practice Note**  
   While today’s examples use the Management Console for visual clarity, a core theme of the course is transitioning to **Infrastructure as Code (IaC)**. Later sessions will automate these actions using tools like Terraform and AWS CloudFormation.
-
---- 
-
-This polished version maintains all the original content while improving readability, consistency, and flow. Let me know if you’d like any further refinements.
